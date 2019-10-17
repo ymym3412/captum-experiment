@@ -1,4 +1,4 @@
-# aptum-experiment
+# captum-experiment
 Experiment repository for PyTorch Model interpretability library: Captum  
 See [https://github.com/pytorch/captum](https://github.com/pytorch/captum)
 
